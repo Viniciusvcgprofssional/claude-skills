@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temp files
+*.tmp
+*.log
+
+# Credentials (never commit these)
+.env
+.env.*
+*.key
+*credentials*
+*secret*
